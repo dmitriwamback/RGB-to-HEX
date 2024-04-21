@@ -9,5 +9,6 @@ unsigned int rgbToHex(int r, int g, int b) {
 }
 
 int main() {
+    
     unsigned int hex = rgbToHex(255, 255, 255);
 }
